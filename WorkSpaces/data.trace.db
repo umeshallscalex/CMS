@@ -1,0 +1,6 @@
+2026-11-04 17:25:48.705390+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+select e1_0.emp_id,e1_0.departmentid,e1_0.emp_name from employee e1_0 [42104-240]
+2026-11-04 17:25:51.506819+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+select e1_0.emp_id,e1_0.departmentid,e1_0.emp_name from employee e1_0 [42104-240]
